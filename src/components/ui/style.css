@@ -1,0 +1,24 @@
+
+/* prduct__cart  */
+.prduct__cart:hover img{
+    transform: scale(1.2);
+    transition: all 0.5s;
+}
+.prduct__cart h3{
+    color: var(--primary-color);
+}
+.prduct__cart p{
+    font-size: 15px;
+}
+/* commenSection  */
+.commom__section{
+
+    background: linear-gradient(rgba(0,0,0,0.562), rgba(0,0,0,0.562)),
+    url('../../assets//images/pexels-heyho-7534561.jpg') no-repeat center center;
+    background-size: cover; 
+    padding: 130px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

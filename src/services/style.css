@@ -1,0 +1,28 @@
+.card__FaTruc{
+    background-color: var(--card-bg-01) !important;
+    border: 0 !important;
+    transition: all 0.8s;
+}
+.card__GiRet{
+    background-color: var(--card-bg-02) !important;
+    border: 0 !important;
+    transition: all 0.8s;
+}
+.card__BsData{
+    background-color: var(--card-bg-03) !important;
+    border: 0 !important;
+    transition: all 0.8s;
+}
+.card__Money{
+    background-color: var(--card-bg-04) !important;
+    border: 0 !important;
+    transition: all 0.8s;
+}
+.card__FaTruc:hover,
+.card__GiRet:hover,
+.card__BsData:hover,
+.card__Money:hover
+{
+    transform: translateY(-30px);
+    
+}

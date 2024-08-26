@@ -1,0 +1,10 @@
+.footer{
+    background-color: var(--primary-color) !important;
+  }
+  .footer_quick{
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+  .bg-lis{
+    background-color: var(--primary-color) !important;
+  }

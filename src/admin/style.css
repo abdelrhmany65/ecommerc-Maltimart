@@ -1,0 +1,30 @@
+.top-header{
+    background-color: var(--primary-color);
+}
+.icons{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+   
+}
+.icons span{
+    color: #fff;
+    margin-right: 10px;
+}
+
+.scal img:hover{
+    transform: scale(1.2);
+}
+
+.search-nav{
+    width: 70%;
+}
+.row__nav li{
+    font-weight: bolder;
+    padding: 10px 0;
+
+}
+.row__nav{
+    background: var(--hero-bg);
+    
+}
